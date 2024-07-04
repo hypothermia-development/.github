@@ -1,10 +1,8 @@
 ## Hi there 👋
 
+Releases every Friday
 
-
-🙋‍♀️ A short introduction - hypothermia development is a development, studio? team?, no only one person for now. I (the sole survivor) make stuff daily, then update that stuff weekly. the things being released now will eventually become usuable 
-🌈 Contribution guidelines - how can the community get involved? - contacting me on discord, "neronde23.", and give me tips on how to improve my syntax, also make pull requests and forks, ill most likely make the changes offical (if they are good)
-👩‍💻 Useful resources -  all information will be in the wikis of each respective repo
+Deployments every other day 
 
 discord link
 https://discord.gg/pErtSGkw8C
