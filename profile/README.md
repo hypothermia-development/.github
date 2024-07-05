@@ -6,9 +6,11 @@ Deployments every other day
 
 Looking for: Rust Devs, F/E Devs, C++ Devs, really anyone that knows how to code at an intermediate - advanced level (willing to teach/mentor)
 
-Most Recent Announcement:
+Most Recent Announcements:
 
 scary_api delayed until further notice
+
+scary_server is being redone into an actual good server management application
 
 discord link
 https://discord.gg/pErtSGkw8C
