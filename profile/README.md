@@ -8,4 +8,4 @@ Looking for: Rust Devs or really anyone that knows how to code at an intermediat
 
 Most Recent Announcements:
 
-deployments postponed, next few projects are going to be big
+deployments postponed, next few projects are going to be big (and require more stuff that i wont get for a month)
