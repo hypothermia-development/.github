@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Releases every Friday
+Releases semi-often - (i.e 4 - 7 days)
 
-Deployments every other day 
+Updates depend on how good the project is or how finished it is
 
 Looking for: Rust Devs or really anyone that knows how to code at an intermediate - advanced level (willing to teach/mentor)
 
