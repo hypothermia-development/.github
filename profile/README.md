@@ -8,4 +8,4 @@ Looking for: Rust Devs or really anyone that knows how to code at an intermediat
 
 Most Recent Announcements:
 
-Development has started on a crypto mining game (it kinda simulates "crypto mining"
+Development has paused
